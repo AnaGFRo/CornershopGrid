@@ -1,1 +1,2 @@
-# CornershopGrid
+# conershop
+practica seccion 2
